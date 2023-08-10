@@ -1,0 +1,57 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/home"
+    weight = 1
+
+[[main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 2
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 3
+
+[[main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 4
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "mail"
+    name = "Mail"
+    url = "mailto:ivanovmandevivan@gmail.com"
+    weight = 1
+    [social.params]
+        icon = "envelope"
+
+[[social]]
+    identifier = "github"
+    name = "Github"    
+    url = "https://github.com/ivanovmandevivan"
+    weight = 2
+    [social.params]
+        icon = "github"
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/ivan-ivanov-mandev"
+    weight = 3
+    [social.params]
+        icon = "linkedin"
+
+[[social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/mandev_ivan"
+    weight = 4
+    [social.params]
+        icon = "twitter"
