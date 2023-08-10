@@ -1,0 +1,13 @@
+<div class = "grid grid-cols-3 gap-2">
+    {{ with .Site.GetPage "/main" }}
+        {{ range (sort .Data.Pages "Date" "desc" )}}
+            <a href="{{ .Permalink }}" title="{{ .Title }}">
+                {{ $image := .Page.Resources.GetMatch .Params.image }}
+                {{ with $image }}
+                    {{ $thumb := .Resize "400x" }}
+                    <img src="{{ $thumb.Permalink }}" alt="{{ .Title }}" class="img-fluid rounded">
+                {{ end }}
+            </a>
+        {{ end }}
+    {{ end }}
+</div>
