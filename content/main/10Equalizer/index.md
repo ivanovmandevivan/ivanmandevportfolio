@@ -6,6 +6,12 @@ title = "OpenGL Equalizer"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube kpLnZeFb7Ro >}}
+---
+# Brief
+
+A small OpenGL demo where we had to make the shaders react to the background music and we had to make it as interactive as possible through user input. It was entirely developed in C++.
+
+It was done in a private engine called "**EDK**" developed by one of the teachers of the university in **ESAT**.
+
+Developed by Ivan Ivanov Mandev and Jose Manuel Padilla Varea.

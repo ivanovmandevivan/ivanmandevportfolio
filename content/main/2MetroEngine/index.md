@@ -6,6 +6,32 @@ title = "Metro Engine"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube hyn8OK1Co_Y >}}
+---
+
+# Brief
+
+Metro Engine is our Engine Programming subject final project.
+
+Credits to all asset makers, especially to [Jose García](https://www.artstation.com/jgarciacliment). 
+
+This video shows the main features of the engine running on PC and PS4.
+The PC version uses OpenGL as its graphics API.
+
+The main features are:
+- Pseudo-data-oriented design (ECS).
+- Multithreading.
+- Deferred rendering.
+- Physically Based Rendering.
+- Image-Based Lighting.
+- Intuitive and useful UI integration with ImGui.
+- LUA as the scripting language for the simulation loop of the app. (Play/Stop functionality). Scripts must have BeginPlay() and Update().
+- Wavefront OBJ loading (with sub geometries handling and materials)
+- Post-processing: Tone-mapping.
+
+This project was developed by:
+
+- Alvaro Soriaon Romero.
+- Ivan Ivanov Mandev.
+
+You can check the **in-depth** explanations on how the engine was built on the PC version in this website: [metro-engine.github.io](https://metro-engine.github.io/)

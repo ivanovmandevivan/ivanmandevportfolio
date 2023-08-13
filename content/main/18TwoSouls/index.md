@@ -6,6 +6,23 @@ title = "Two Souls"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube suCgFtmNO3M >}}
+---
+# Brief
+
+A mini game done in less than 48h in 1st ESAT game jam.
+
+Two explorers fall into dungeons in an unknown place. They fail to survive but manage to possess the souls of ancient warriors and must collaborate to get out of that place.
+
+It was developed in **Unity**.
+
+A game by:
+
+- Alexandre Calabuig
+- Alejandro Gasulla
+- Javier González
+- Ivan Ivanov
+- Luciano Lusvarghi
+- José Sanz
+
+itch.io link: [https://badwaz.itch.io/two-souls](https://badwaz.itch.io/two-souls)

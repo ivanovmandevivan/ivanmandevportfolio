@@ -6,6 +6,10 @@ title = "Voxel Comanche"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube b7E9kwLXtDU >}}
+---
+# Brief
+
+An university project developed by Ivan Ivanov Mandev and Alvaro Soriano Romero on the Low level Programming subject in our university, it is pure C code with the SDL Graphic Library.
+
+Our task was to mimic the "Voxel Comanche" Graphic Effect and to optimize the code as much as we could to later translate it to ARM code.

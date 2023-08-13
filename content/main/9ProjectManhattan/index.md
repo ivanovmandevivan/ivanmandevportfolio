@@ -6,6 +6,30 @@ title = "Project Manhattan"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube yA0hMzDI4xg >}}
+---
+# Brief
+
+Project Manhattan was the upgraded version of the base engine revision of the **EDK** engine that was developed and provided to us by our teachers in **ESAT**.
+
+This project contains various implementations such as:
+
+- SSAO (Screen Space Ambient Occlusion).
+- Geometry Shaders (1 MILLION - 2 MILLION particles) with stable framerate.
+- Transparency Materials.
+- Procedural Generation of the city.
+- Frustrum Culling.
+- Environment Fog.
+- Wireframe Mode.
+- Light Creation System (Point Light / Spotlight / Directional Light).
+- Custom City Resizing.
+- Culling Tolerance Adjusting.
+- Performance Check.
+- Deferred Rendering.
+- Blur Postprocess.
+
+
+This project was developed by:
+
+- Alvaro Soriaon Romero.
+- Ivan Ivanov Mandev.

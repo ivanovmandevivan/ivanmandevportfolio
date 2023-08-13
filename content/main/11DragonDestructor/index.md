@@ -6,6 +6,12 @@ title = "Dragon Destructor"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube NDSFaPazYko >}}
+---
+# Brief
+
+A small game where the objective is to reach a certain height in the Y Axis while spawning physics objects, there are two players and each one can spawn blocsk with a joystick until they reach the given objective height.
+
+It uses the physic engine called "Box2D" and emphasizes on the database saving of the physics world and textures of the game whilst retaining 4 save slots and the possibility to load them in runtime.
+
+Project was done by Ivan Ivanov Mandev and Alvaro Soriano Romero.

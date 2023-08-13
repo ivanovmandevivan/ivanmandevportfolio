@@ -6,6 +6,14 @@ title = "Scramble 1981"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube HKjX37HTzYs >}}
+---
+# Brief
+
+A classic horizontal shoot'em up arcade that I developed in my first year of university in ESAT, it was written in C language.
+
+It consists of surpassing the various levels of the game while trying to survive and reaching the end goal, the player will encounter various enemies that will try to make his life impossible whilst maintaining his fuel bar constantly fueled by shooting bombs to the fuel tanks in the terrain.
+
+It was developed in a private engine provided by the university, **ESAT**.
+
+- Developed by Ivan Ivanov Mandev.

@@ -6,6 +6,8 @@ title = "Radial Sinewave"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube 6ps7XApbwJY >}}
+---
+# Brief
+
+A student project developed by Ivan Ivanov Mandev and Alvaro Soriano Romero on the subject "Low Level Programming", we are using the SDL Graphic library and pure C code to be able to render this effect, meanwhile we also have it fully optimized and executing on a Raspberry Pi with ARM assembly code.

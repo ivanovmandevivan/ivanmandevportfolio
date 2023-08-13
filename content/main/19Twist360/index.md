@@ -6,6 +6,12 @@ title = "Twist 360"
 type = "gallery"
 +++
 
-The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
-is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
-The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
+{{< youtube xkokV5HPti0 >}}
+---
+# Brief
+
+A fast phased decision game where you move with left joystick and rotate with right joystick, every time you do a successful color match, the speed of the actual game speeds up, music included, new enemies appear, new mechanics and most of it is about avoidance and taking your chances whenever you feel like you are going to succeed.
+
+This project was done for the Game Design subject in Univerity.
+
+It was developed by Ivan Ivanov Manded and Josema Padilla Varea.
