@@ -25,3 +25,6 @@ It got released to [Steam](https://store.steampowered.com/app/1659400/Hideout_Fa
 - **Programmers**: Iván Ivanov Mandev, Álvaro Soriano Romero, Alexandre Molina Pinedo, José Manuel Padilla Varea, Alexandre Calabuig Langa, David López Ramos, Diego Cosín Martínez, Sergio López Cabañero.
 - **Production**: Daniel Argudo, Ismael Castellanos.
 - **Musicians**: Peiyue Lu, Charles Mustian.
+
+
+{{< glslCanvasPartial shader="shaderTest.frag" width="500" height="500">}}

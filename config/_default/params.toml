@@ -28,3 +28,8 @@ enableEmoji = true
     # theme = "light"
     # lang = "zh-CN"
     # lazyLoading = true
+
+apple_favicon = "img/apple-touch-icon.png"
+normal_favicon32x32 = "img/favicon-32x32.png"
+normal_favicon16x16 = "img/favicon-16x16.png"
+safari_favicon = "img/safari-pinned-tab.svg"
