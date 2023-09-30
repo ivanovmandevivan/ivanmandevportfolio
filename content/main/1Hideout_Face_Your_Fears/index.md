@@ -27,4 +27,4 @@ It got released to [Steam](https://store.steampowered.com/app/1659400/Hideout_Fa
 - **Musicians**: Peiyue Lu, Charles Mustian.
 
 
-{{< glslCanvasPartial shader="shaderTest.frag" width="500" height="500">}}
+{{< glslCanvasPartial shader="/shaderTest.frag" width="500" height="500">}}
